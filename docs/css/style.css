@@ -1,0 +1,52 @@
+/* Feel free to change me and make me your own! */
+
+body {
+  background-color: #7ae5ef; 
+  font-family: Georgia, serif; 
+}
+
+article {
+  margin-left: 10vw; 
+  margin-right: 10vw; 
+}
+
+h1 {
+  font-size: 48px; 
+}
+
+h2 {
+  font-size: 36px; 
+}
+
+p {
+  font-size: 20px; 
+}
+
+ul {
+  font-size: 20px; 
+  list-style-type: square; 
+}
+
+code {
+ font-family: 'Courier New', monospace; 
+}
+
+footer{
+  text-align: center; 
+}
+
+.copyright {
+  border-top: 1px solid black;
+  display: flex;
+  margin: auto;
+  padding: 10px;
+}
+
+img.copyright_logo {
+  width: 1vw;
+  margin:.15vw;
+}
+
+.course-logo {
+  width: 35vw;
+}
